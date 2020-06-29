@@ -1,8 +1,8 @@
 # Plot.ly Work - Belly Button Biodiversity
 
-![Bacteria by filterforge.com](Images/bacteria.jpg)
+![hw](Images/bacteria.jpg)
 
-In this assignment, I built an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
+In this assignment, built an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
@@ -45,6 +45,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 * Adapted the gauge chart to plot the weekly washing frequency of the individual.
 
 * Updated the chart whenever a new sample is selected.
+
+![hw](Images/gauge.png)
 
 ## Deployment
 
