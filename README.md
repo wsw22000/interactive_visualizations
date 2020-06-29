@@ -1,12 +1,12 @@
 # Plot.ly Work - Belly Button Biodiversity
 
-![hw](Images/bacteria.jpg)
+![Main](Images/new_bacteria.jpg)
 
 In this assignment, built an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-## Step 1: Plotly
+## Plotly
 
 1. Used the D3 library to read in `samples.json`.
 
@@ -18,7 +18,9 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Used `otu_labels` as the hovertext for the chart.
 
-  ![bar Chart](Images/hw01.png)
+  ![Drop Down](Images/dropdown.png)
+
+  ![Bar Chart](Images/bar_chart.png)
 
 3. Created a bubble chart that displays each sample.
 
@@ -32,13 +34,13 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Used `otu_labels` for the text values.
 
-![Bubble Chart](Images/bubble_chart.png)
+![Bubble Chart](Images/new_bubble_chart.png)
 
 4. Displayed the sample metadata, i.e., an individual's demographic information.
 
 5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/hw03.png)
+![hw](Images/dem_chart.png)
 
 ## Advanced Challenge Assignment
 
@@ -46,11 +48,11 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Updated the chart whenever a new sample is selected.
 
-![hw](Images/gauge.png)
+![hw](Images/new_gauge.png)
 
 ## Deployment
 
-Deployed app to GitHub Pages. Submit 
+Deployed app to GitHub Pages.
 
 ### About the Data
 
